@@ -6,7 +6,7 @@
 
  date    : 2020/09/07
 
- update :
+ update : 2020/09/08
 
 ***
 
@@ -15,6 +15,7 @@ Github pages file , build from React
 ***
 ### sample 
 
+https://kuc-arc-f.github.io/cms-wasm-dev/
 
 ***
 
